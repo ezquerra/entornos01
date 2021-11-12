@@ -1,2 +1,2 @@
-# entornos01
+# repositorio entornos01
 Repositorio inicial de entornos
